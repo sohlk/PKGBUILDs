@@ -1,0 +1,6 @@
+# subfolders
+*/**/
+
+# source/pkg
+*.tar*
+*.tgz
